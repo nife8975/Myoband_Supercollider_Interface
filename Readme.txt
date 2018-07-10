@@ -1,7 +1,5 @@
-# Myoband_Supercollider_Interface
-Author: 
 Nicholas Fentekes
-
+Myoband-Supercollider Interfaces
 
 Created a system using a Myo Armband, Wekinator, and Processing to control Supercollider with gestures.
 These gestures are identified via machine learning classification of EMG data from the Myo Band.
